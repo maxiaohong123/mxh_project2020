@@ -1,5 +1,10 @@
 package com.mxh.framework.v1;
 
+import com.mxh.framework.annotation.GPAutowired;
+import com.mxh.framework.annotation.GPController;
+import com.mxh.framework.annotation.GPRequestMapping;
+import com.mxh.framework.annotation.GPService;
+
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -8,11 +13,17 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
 import java.net.URL;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
+/**
+ * 这是手写spring1.0中的v1版本。
+ */
 public class XHServlet extends HttpServlet {
 
     private Map<String,Object> mapping = new HashMap<String,Object>();
@@ -24,11 +35,26 @@ public class XHServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        doDispatcher(req,resp);
+        try {
+            doDispatcher(req,resp);
+        } catch (Exception e) {
+            e.printStackTrace();
+            resp.getWriter().write("500 Exception"+ Arrays.toString(e.getStackTrace()));
+        }
     }
 
 
-    private void doDispatcher(HttpServletRequest req, HttpServletResponse resp) {
+    private void doDispatcher(HttpServletRequest req, HttpServletResponse resp) throws Exception {
+         String url = req.getRequestURI();
+         String contextPath = req.getContextPath();
+         url = url.replace(contextPath,"").replaceAll("/+","/");
+         if(!this.mapping.containsKey(url)){
+             resp.getWriter().write("404 Not Found!!");
+             return;
+         }
+         Method method = (Method) this.mapping.get(url);
+         Map<String,String[]> params = req.getParameterMap();
+         method.invoke(this.mapping.get(method.getDeclaringClass().getName()),new Object[]{req,resp,params.get("name")[0]});
 
 
     }
@@ -42,11 +68,72 @@ public class XHServlet extends HttpServlet {
         configContext.load(is);
         String scanPackage = configContext.getProperty("scanPackage");
         doScanner(scanPackage);
+        for(String className:mapping.keySet()){
+            if(!className.contains(".")){
+                continue;
+            }
+            Class<?> clazz = Class.forName(className);
+            if(clazz.isAnnotationPresent(GPController.class)){
+                mapping.put(className,clazz.newInstance());
+                String baseUrl = "";
+                if(clazz.isAnnotationPresent(GPRequestMapping.class)){
+                    GPRequestMapping requestMapping = clazz.getAnnotation(GPRequestMapping.class);
+                    baseUrl = requestMapping.value();
+                }
+                Method[] methods = clazz.getMethods();
+                for(Method method:methods){
+                    if(!method.isAnnotationPresent(GPRequestMapping.class)){continue;}
+                    GPRequestMapping requestMapping = method.getAnnotation(GPRequestMapping.class);
+                    String url = (baseUrl+"/"+requestMapping.value()).replaceAll("/+","/");
+                    mapping.put(url,method);
+                    System.out.println("Mapped "+url+","+method);
+                }
+            }else if(clazz.isAnnotationPresent(GPService.class)){
+                GPService service = clazz.getAnnotation(GPService.class);
+                String beanName = service.value();
+                if("".equals(beanName)){beanName = clazz.getName();}
+                Object instance = clazz.newInstance();
+                mapping.put(beanName,instance);
+                for(Class<?> i:clazz.getInterfaces()){
+                    mapping.put(i.getName(),instance);
+                }
+            }else{continue;}
+        }
 
+        for(Object object:mapping.values()){
+            if(object==null){
+                continue;
+            }
+            Class clazz = object.getClass();
+            if(clazz.isAnnotationPresent(GPController.class)){
+                Field[] fields = clazz.getDeclaredFields();
+                for(Field field:fields){
+                    if(!field.isAnnotationPresent(GPAutowired.class)){continue;}
+                    GPAutowired autowired = field.getAnnotation(GPAutowired.class);
+                    String beanName = autowired.value();
+                    if("".equals(beanName)){
+                        beanName = field.getName();
+                        field.setAccessible(true);
+                        field.set(mapping.get(clazz.getName()),mapping.get(beanName));
+                    }
+                }
+            }
 
-        } catch (IOException e) {
+        }
+        } catch (Exception e) {
             e.printStackTrace();
         }
+        finally {
+            if(is !=null){
+                try{
+                    is.close();
+                }catch (IOException e){
+                    e.printStackTrace();
+                }
+
+            }
+        }
+        System.out.println("GP MVC Framework is init");
     }
 
     private void doScanner(String scanPackage) {
@@ -61,10 +148,11 @@ public class XHServlet extends HttpServlet {
                 if(!file.getName().endsWith(".class")){
                     continue;
                 }
+                String className = scanPackage+"."+file.getName().replaceAll(".class","");
+                mapping.put(className,null);
             }
 
-            String className = scanPackage+"."+file.getName().replaceAll(".class","");
-            mapping.put(className,null);
+
         }
     }
 }
