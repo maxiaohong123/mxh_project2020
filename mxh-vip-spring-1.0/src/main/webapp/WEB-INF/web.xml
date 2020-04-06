@@ -6,7 +6,7 @@
   <display-name>Mxh Web Application</display-name>
   <servlet>
     <servlet-name>gpmvc</servlet-name>
-    <servlet-class>com.mxh.framework.v2.XHServlet2</servlet-class>
+    <servlet-class>com.mxh.framework.v3.XHServlet</servlet-class>
     <init-param>
       <param-name>contextConfigLocation</param-name>
       <param-value>application.properties</param-value>

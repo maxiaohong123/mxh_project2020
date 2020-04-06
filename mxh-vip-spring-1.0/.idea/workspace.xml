@@ -7,20 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f7af2e2-5d18-465c-b074-977ea0c4ac43" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v1/GPDispatcherServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v1/XHServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v1/XHServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mxh/demo/mvc/action/DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/mvc/action/DemoAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mxh/framework/v1/XHServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/v1/XHServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/mxh-vip-spring-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/mxh-vip-spring-1.0.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/WEB-INF/classes/com/mxh/demo/mvc/action/DemoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/WEB-INF/classes/com/mxh/demo/mvc/action/DemoAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/WEB-INF/classes/com/mxh/framework/v1/XHServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/WEB-INF/classes/com/mxh/framework/v1/XHServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/mxh-vip-spring-1.0/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="66">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -44,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="270">
+              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="75" />
               <folding>
                 <element signature="e#821#829#0" expanded="true" />
                 <element signature="e#1033#1049#0" expanded="true" />
@@ -58,8 +50,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="240">
+              <caret line="58" column="77" selection-start-line="58" selection-start-column="77" selection-end-line="58" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="318" column="41" lean-forward="true" selection-start-line="318" selection-start-column="41" selection-end-line="318" selection-end-column="41" />
+              <folding>
+                <element signature="e#1202#1211#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="99">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,6 +114,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gupao</find>
+      <find>500</find>
       <find>doDi</find>
     </findStrings>
     <replaceStrings>
@@ -130,11 +135,12 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/TwoAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/v1/GPDispatcherServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/v1/XHServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java" />
       </list>
     </option>
   </component>
@@ -259,28 +265,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-1.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-1.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-1.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-1.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mxh-vip-spring-1.0" type="b2602c69:ProjectViewProjectNode" />
@@ -300,8 +285,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mxh" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-              <item name="XHServlet2" type="1a9f42e2:ClassTreeNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mxh-vip-spring-1.0" type="b2602c69:ProjectViewProjectNode" />
@@ -336,7 +320,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586095209404" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586146228776" />
     <property name="last_opened_file_path" value="F:/gupao/gupaoedu-vip-spring-1.0/gupaoedu-vip-spring-1.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -347,6 +331,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mxh.framework.v3" />
       <recent name="com.mxh.framework.v2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -420,11 +405,12 @@
       </method>
     </configuration>
     <configuration name="TomcatServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.78" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/spring1/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="mxh-vip-spring-1.0:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/spring1" />
           </settings>
         </artifact>
       </deployment>
@@ -504,17 +490,17 @@
       <updated>1585880198555</updated>
       <workItem from="1585880200130" duration="2794000" />
       <workItem from="1585887709300" duration="3246000" />
-      <workItem from="1586068478203" duration="17922000" />
+      <workItem from="1586068478203" duration="23926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23962000" />
+    <option name="totallyTimeSpent" value="29966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2322239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,12 +511,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33114755" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49508196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46065575" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.18852459" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2967213" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.083877996" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
@@ -604,34 +590,40 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java</url>
-          <line>107</line>
+          <line>108</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java</url>
-          <line>197</line>
+          <line>198</line>
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java</url>
-          <line>66</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java</url>
+          <line>26</line>
           <properties />
-          <option name="timeStamp" value="43" />
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java</url>
-          <line>69</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java</url>
+          <line>60</line>
           <properties />
-          <option name="timeStamp" value="44" />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java</url>
+          <line>321</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -738,18 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="e#821#829#0" expanded="true" />
-            <element signature="e#1033#1049#0" expanded="true" />
-            <element signature="e#1137#1153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v1/XHServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -758,20 +738,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#815#830#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
@@ -786,12 +752,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="99">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="75" />
+          <folding>
+            <element signature="e#821#829#0" expanded="true" />
+            <element signature="e#1033#1049#0" expanded="true" />
+            <element signature="e#1137#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v2/XHServlet2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="58" column="77" selection-start-line="58" selection-start-column="77" selection-end-line="58" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/v3/XHServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="318" column="41" lean-forward="true" selection-start-line="318" selection-start-column="41" selection-end-line="318" selection-end-column="41" />
+          <folding>
+            <element signature="e#1202#1211#0" expanded="true" />
           </folding>
         </state>
       </provider>

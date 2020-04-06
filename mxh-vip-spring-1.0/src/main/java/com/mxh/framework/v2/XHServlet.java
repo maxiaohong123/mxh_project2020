@@ -19,7 +19,7 @@ import java.lang.reflect.Method;
 import java.net.URL;
 import java.util.*;
 /**
- * 这是手写spring1.0中的v2版本。
+ * 这是手写spring1.0中的v2版本:与v1相比，将各个逻辑进行方法封装。
  */
 public class XHServlet extends HttpServlet {
 
@@ -57,6 +57,7 @@ public class XHServlet extends HttpServlet {
 
       //1、获取浏览器输入的url.
       String url = req.getRequestURI();
+      // req.getContextPath ：指项目的根路径名称，idea默认是没有根路径的，需要配置ApplicationContext
       String contextPath = req.getContextPath();
       url = url.replaceAll(contextPath,"").replaceAll("/+","/");
       if(!this.handlerMapping.containsKey(url)){
