@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4d072e-14cf-4651-a4b5-3760cbbbfe7f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/action/MyAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/IModifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/IQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/ModifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/QueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPAutowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-1.0/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -79,8 +66,8 @@
       <file leaf-file-name="GPApplicationContext.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#378#403#0" expanded="true" />
@@ -278,73 +265,6 @@
               <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mxh" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mxh-vip-spring-2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mxh-vip-spring-2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -444,20 +364,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586309976648</updated>
-      <workItem from="1586309978892" duration="3991000" />
+      <workItem from="1586309978892" duration="4252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3991000" />
+    <option name="totallyTimeSpent" value="4252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.14503817" />
+      <window_info anchor="bottom" id="Messages" weight="0.4165758" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -467,10 +386,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.45583424" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -603,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#378#403#0" expanded="true" />
