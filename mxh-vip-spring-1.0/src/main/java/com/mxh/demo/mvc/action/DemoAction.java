@@ -18,14 +18,15 @@ import javax.servlet.http.HttpServletResponse;
 @GPRequestMapping("/demo")
 public class DemoAction {
 
-  	@GPAutowired
-	private IDemoService demoService;
+
+	@GPAutowired private IDemoService demoService;
 
 	@GPRequestMapping("/query")
 	public void query(HttpServletRequest req, HttpServletResponse resp,
 					  @GPRequestParam("name") String name){
-		String result = demoService.get(name);
-//		String result = "My name is " + name;
+		String result = demoService.get(name); //适合v2、v3版本。
+//		String result = "My name is " + name; //适合v1、v2、v3版本
+		System.out.println(result);
 		try {
 			resp.getWriter().write(result);
 		} catch (IOException e) {
