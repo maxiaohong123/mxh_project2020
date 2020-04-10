@@ -2,6 +2,7 @@ package com.mxh.framework.webmvc.servlet;
 
 import com.mxh.framework.annotation.GPController;
 import com.mxh.framework.annotation.GPRequestMapping;
+import com.mxh.framework.annotation.GPRequestParam;
 import com.mxh.framework.context.GPApplicationContext;
 
 import javax.servlet.ServletConfig;
@@ -10,7 +11,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
@@ -34,11 +37,56 @@ public class GPDispatcherServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        doDispatch(req,resp);
+
+        try {
+            doDispatch(req,resp);
+        } catch (Exception e) {
+            e.printStackTrace();
+            resp.getWriter().write("500 Exception Detail:"+Arrays.toString(e.getStackTrace()));
+        }
     }
 
-    private void doDispatch(HttpServletRequest req, HttpServletResponse resp) {
+    private void doDispatch(HttpServletRequest req, HttpServletResponse resp)  throws Exception{
 
+        String url = req.getRequestURI();
+        String contextPath = req.getContextPath();
+        url = url.replaceAll(contextPath,"").replaceAll("/+","/");
+
+        if(!this.handlerMapping.containsKey(url)){
+            resp.getWriter().write("404 Not Found!");
+        }
+
+        Map<String,String[]> params = req.getParameterMap();
+        Method method = this.handlerMapping.get(url);
+        Class<?>[] paramTypes = method.getParameterTypes();
+        Object[] paramValues = new Object[paramTypes.length];
+
+        for(int i=0;i<paramTypes.length;i++){
+            Class paramType = paramTypes[i];
+            if(paramType==HttpServletRequest.class){
+                paramValues[i] = req;
+            }else if(paramType==HttpServletResponse.class){
+                paramValues[i] = resp;
+            }else if(paramType==String.class){
+                Annotation[][] pa = method.getParameterAnnotations();
+                for(int j=0;j<pa.length;j++){
+                    for(Annotation a:pa[i]){
+                        if(a instanceof GPRequestParam){
+                            String paramName = ((GPRequestParam) a).value();
+                            if(!"".equals(paramName.trim())){
+                                String value = Arrays.toString(params.get(paramName)).replaceAll("\\[|\\]","").replaceAll("\\s+",",");
+                                paramValues[i] = value;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        //获取参数名称为name的参数，暂时硬编码
+        String beanName = toLowerFirstCase(method.getDeclaringClass().getSimpleName());
+        //
+        method.invoke(ioc.get(beanName),paramValues);
 
     }
 
@@ -84,6 +132,13 @@ public class GPDispatcherServlet extends HttpServlet {
                 System.out.println("Mapped "+url+" ,"+method);
             }
         }
+    }
+
+    private String toLowerFirstCase(String simpleName) {
+        char [] chars = simpleName.toCharArray();
+//        if(chars[0] > )
+        chars[0] += 32;
+        return String.valueOf(chars);
     }
 }
 

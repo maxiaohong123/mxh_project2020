@@ -60,10 +60,17 @@ public class GPBeanDefinitionReader {
         List<GPBeanDefinition> result = new ArrayList<GPBeanDefinition>();
         try{
             for(String className:registryBeanClasses){
-                Class<?> clazz = Class.forName(className);
+                Class<?> beanClass = Class.forName(className);
+                //1、默认是类名首字母小写
                 //clazz.getSimpleName :只获得类名，如：MyAction
                 //clazz.getName: 获得全类名，如：com.mxh.demo.action.MyAction
-                result.add(doCreateBeanDefinition(toLowerFirstCase(clazz.getSimpleName()),clazz.getName()));
+                result.add(doCreateBeanDefinition(toLowerFirstCase(beanClass.getSimpleName()),beanClass.getName()));
+                //2、自定义注入名称
+                //忽略
+                //3、接口注入
+                for(Class<?> i:beanClass.getInterfaces()){
+                    result.add(doCreateBeanDefinition(i.getName(),beanClass.getName()));
+                }
             }
         }catch (Exception e)
         {
