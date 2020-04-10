@@ -15,6 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
 
+//注意：这是IOC项目，所以该servlet还需要继续改造才能正常运行。
 public class GPDispatcherServlet extends HttpServlet {
 
     //上下文
