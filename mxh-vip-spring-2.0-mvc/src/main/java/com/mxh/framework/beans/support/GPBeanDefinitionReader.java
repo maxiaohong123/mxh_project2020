@@ -23,6 +23,9 @@ public class GPBeanDefinitionReader {
         doScanner(contextConfig.getProperty("scanPackage"));
     }
 
+    public Properties getConfig(){
+        return  this.contextConfig;
+    }
     private void doScanner(String scanPackage) {
         URL url = this.getClass().getClassLoader().getResource("/"+scanPackage.replaceAll("\\.","/"));
         File classPath = new File(url.getFile());
@@ -31,7 +34,7 @@ public class GPBeanDefinitionReader {
                 doScanner(scanPackage+"."+file.getName());
             }else{
                 if(!file.getName().endsWith(".class")){continue;}
-                String className = scanPackage+"."+file.getName().replaceAll(".class","");
+                String className = (scanPackage+"."+file.getName().replaceAll(".class",""));
                 registryBeanClasses.add(className);
             }
 
@@ -61,6 +64,8 @@ public class GPBeanDefinitionReader {
         try{
             for(String className:registryBeanClasses){
                 Class<?> beanClass = Class.forName(className);
+                //注意：此处需要判断如果该类是接口，则不需要加入beanDefinition集合，因为它的实现类会自动将接口注入的。【此处踩过坑】
+                if(beanClass.isInterface()){continue;}
                 //1、默认是类名首字母小写
                 //clazz.getSimpleName :只获得类名，如：MyAction
                 //clazz.getName: 获得全类名，如：com.mxh.demo.action.MyAction
@@ -95,4 +100,6 @@ public class GPBeanDefinitionReader {
         chars[0] += 32;
         return String.valueOf(chars);
     }
+
+
 }

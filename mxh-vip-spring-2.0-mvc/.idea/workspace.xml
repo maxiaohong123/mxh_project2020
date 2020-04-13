@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mxh-vip-spring-2.0:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a4d072e-14cf-4651-a4b5-3760cbbbfe7f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/action/MyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/action/PageAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/IModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/IQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/QueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPModelAndView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPViewResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/action/PageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/webmvc/servlet/GPHandlerMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/webmvc/servlet/GPModelAndView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/webmvc/servlet/GPView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mxh/framework/webmvc/servlet/GPViewResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/demo/action/PageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPHandlerMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPModelAndView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPViewResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/classes/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/lib/lombok-1.16.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mxh-vip-spring-2.0-mvc/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-1.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/mxh-vip-spring-2.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GPDispatcherServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4230">
+              <caret line="156" column="17" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPHandlerAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5817#5818#0" expanded="true" />
+                <element signature="e#5877#5878#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GPBeanDefinitionReader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-467">
+              <caret line="67" column="54" lean-forward="true" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getBean</find>
+      <find>getH</find>
+      <find>getHandlerA</find>
+      <find>注意</find>
+      <find>initHandlerMappings</find>
+      <find>initHandlerAdapters</find>
+      <find>beanDefinitionMap</find>
+      <find>initHan</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/framework/annotation/GPAutowired.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/mvc/action/DemoAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/QueryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/action/MyAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/ModifyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPModelAndView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/demo/action/PageAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPViewResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Tools\Maven\LocalResporsity" />
+        <option name="mavenHome" value="D:/Tools/Maven/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\Tools\Maven\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="605" />
+    <option name="y" value="6" />
+    <option name="width" value="1186" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mxh-vip-spring-2.0-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mxh-vip-spring-2.0-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mxh" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586526322883" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mxh.framework.webmvc.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\mxh_project2020\mxh-vip-spring-2.0-mvc\src\main\resources\layouts" />
+      <recent name="F:\mxh_project2020\mxh-vip-spring-2.0-mvc\src\main\java\com\mxh\demo\action" />
+      <recent name="F:\mxh_project2020\mxh-vip-spring-2.0-mvc\src\main\resources" />
+      <recent name="E:\mxh_project2020\mxh-vip-spring-2.0\src\main\java\com\mxh\demo" />
+      <recent name="E:\mxh_project2020\mxh-vip-spring-2.0\src\main\java\framework" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat7">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mxh-vip-spring-2.0-mvc [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.78" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mxh-vip-spring-2.0:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mxh-vip-spring-2_0-mvc" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57591" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mxh-vip-spring-2.0:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat7" />
+      <item itemvalue="Maven.mxh-vip-spring-2.0-mvc [jetty:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.mxh-vip-spring-2.0-mvc [jetty:run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mxh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a4d072e-14cf-4651-a4b5-3760cbbbfe7f" name="Default" comment="" />
+      <created>1586309976648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586309976648</updated>
+      <workItem from="1586309978892" duration="4890000" />
+      <workItem from="1586396310275" duration="3863000" />
+      <workItem from="1586488480167" duration="2091000" />
+      <workItem from="1586496785560" duration="20750000" />
+      <workItem from="1586599912753" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31681000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.46065575" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.16204691" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5098361" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14262295" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24307036" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20163934" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.4165758" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.022692889" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4230">
+          <caret line="156" column="17" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="165" column="8" lean-forward="true" selection-start-line="165" selection-start-column="8" selection-end-line="165" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5817#5818#0" expanded="true" />
+            <element signature="e#5877#5878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/DemoService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/service/IDemoService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/TestAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/TwoAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPRequestParam.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/annotation/GPAutowired.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/mvc/action/DemoAction.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/URL.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/webdefault.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2949">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/QueryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/service/impl/ModifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/service/IModifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/action/MyAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/demo/action/PageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/layouts/first.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPModelAndView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPViewResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4230">
+          <caret line="156" column="17" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/context/GPApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5817#5818#0" expanded="true" />
+            <element signature="e#5877#5878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-467">
+          <caret line="67" column="54" lean-forward="true" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
