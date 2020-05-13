@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36336ffe-6ab0-4df5-8278-1c26dcef788f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/action/MyAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/IModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/IQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/impl/ModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/impl/QueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPAutowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/context/GPApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/context/support/GPAbstractApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/core/GPBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/core/GPFactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/action/MyAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/IModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/IQueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/impl/ModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/impl/QueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPRequestMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPRequestParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/GPBeanWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/config/GPBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/context/GPApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/context/support/GPAbstractApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/core/GPBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/core/GPFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/action/MyAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/IQueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/impl/QueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPRequestMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPRequestParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/GPBeanWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/context/GPApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/context/support/GPAbstractApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/core/GPBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/core/GPFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/lombok-1.16.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/action/MyAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/IModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/IQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/impl/ModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/impl/QueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPAutowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/context/GPApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.0.2.RELEASE/spring-jdbc-5.0.2.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/sql/DataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.14/mysql-connector-java-5.1.14.jar!/com/mysql/jdbc/ConnectionImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="1524" column="40" selection-start-line="1524" selection-start-column="40" selection-end-line="1524" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-914">
+              <caret line="124" column="32" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>net</find>
+      <find>co</find>
+      <find>mysql</find>
+      <find>getConnection</find>
+      <find>port</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-aop.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Tools/Maven/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\Tools\Maven\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring-tx" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring-tx" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring-tx" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="MemberServiceTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:druid:1.0.9" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:druid:1.0.9" type="70bed36:NamedLibraryElementNode" />
+              <item name="druid-1.0.9.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:druid:1.0.9" type="70bed36:NamedLibraryElementNode" />
+              <item name="druid-1.0.9.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="druid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:druid:1.0.9" type="70bed36:NamedLibraryElementNode" />
+              <item name="druid-1.0.9.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="druid" type="462c0819:PsiDirectoryNode" />
+              <item name="pool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:druid:1.0.9" type="70bed36:NamedLibraryElementNode" />
+              <item name="druid-1.0.9.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="druid" type="462c0819:PsiDirectoryNode" />
+              <item name="pool" type="462c0819:PsiDirectoryNode" />
+              <item name="DruidDataSource" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: mysql:mysql-connector-java:5.1.14" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: mysql:mysql-connector-java:5.1.14" type="70bed36:NamedLibraryElementNode" />
+              <item name="mysql-connector-java-5.1.14.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: mysql:mysql-connector-java:5.1.14" type="70bed36:NamedLibraryElementNode" />
+              <item name="mysql-connector-java-5.1.14.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-jdbc-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-jdbc-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-jdbc-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-jdbc-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+              <item name="DataSourceTransactionManager" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-tx-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-tx-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-tx-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-tx-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gupaoedu-vip-spring-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-tx-5.0.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractPlatformTransactionManager" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589362476841" />
+    <property name="last_opened_file_path" value="F:/mxh_project_source2020/spring-framework-5.0.2.RELEASE-中文注释版" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MemberServiceTest.testLogin">
+    <configuration name="MemberServiceTest.queryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gupaoedu-vip-spring-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.spring.transaction.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupaoedu.vip.spring.transaction.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.spring.transaction.service.MemberServiceTest" />
+      <option name="METHOD_NAME" value="queryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberServiceTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gupaoedu-vip-spring-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.spring.transaction.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupaoedu.vip.spring.transaction.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.spring.transaction.service.MemberServiceTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberServiceTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gupaoedu-vip-spring-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.spring.transaction.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupaoedu.vip.spring.transaction.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.spring.transaction.service.MemberServiceTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemberServiceTest.testLogin" />
+        <item itemvalue="JUnit.MemberServiceTest.testAdd" />
+        <item itemvalue="JUnit.MemberServiceTest.queryAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36336ffe-6ab0-4df5-8278-1c26dcef788f" name="Default Changelist" comment="" />
+      <created>1589354885731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589354885731</updated>
+      <workItem from="1589354892291" duration="4923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MemberServiceTest_queryAll - 2020.05.13 at 16h 20m 53s.xml">
+      <configuration name="MemberServiceTest.queryAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_queryAll - 2020.05.13 at 16h 22m 47s.xml">
+      <configuration name="MemberServiceTest.queryAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testAdd - 2020.05.13 at 16h 51m 56s.xml">
+      <configuration name="MemberServiceTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testAdd - 2020.05.13 at 16h 52m 53s.xml">
+      <configuration name="MemberServiceTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testAdd - 2020.05.13 at 16h 53m 25s.xml">
+      <configuration name="MemberServiceTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testAdd - 2020.05.13 at 16h 54m 39s.xml">
+      <configuration name="MemberServiceTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testLogin - 2020.05.13 at 16h 56m 57s.xml">
+      <configuration name="MemberServiceTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testLogin - 2020.05.13 at 16h 58m 33s.xml">
+      <configuration name="MemberServiceTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_testLogin - 2020.05.13 at 16h 59m 24s.xml">
+      <configuration name="MemberServiceTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4923000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.87068963" visible="true" weight="0.17927383" />
+      <window_info id="Structure" order="1" sideWeight="0.12931034" side_tool="true" visible="true" weight="0.17927383" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-common.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/dao/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.14/mysql-connector-java-5.1.14.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="83" column="25" lean-forward="true" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="124" column="32" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.2.RELEASE/spring-tx-5.0.2.RELEASE.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="600" column="35" selection-start-line="600" selection-start-column="35" selection-end-line="600" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.0.2.RELEASE/spring-jdbc-5.0.2.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/sql/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.14/mysql-connector-java-5.1.14.jar!/com/mysql/jdbc/MysqlIO.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="120" column="37" lean-forward="true" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.14/mysql-connector-java-5.1.14.jar!/com/mysql/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="1524" column="40" selection-start-line="1524" selection-start-column="40" selection-end-line="1524" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
