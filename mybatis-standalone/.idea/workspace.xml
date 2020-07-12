@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba068514-d167-40c8-94ab-8af28cf0b340" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/action/MyAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/IModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/IQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/impl/ModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/demo/service/impl/QueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPAutowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/annotation/GPService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/context/GPApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/context/support/GPAbstractApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/core/GPBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/core/GPFactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/action/MyAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/IModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/IQueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/impl/ModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/demo/service/impl/QueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPRequestMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPRequestParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/annotation/GPService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/GPBeanWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/config/GPBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/context/GPApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/context/support/GPAbstractApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/core/GPBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/core/GPFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/action/MyAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/IQueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/impl/QueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPRequestMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPRequestParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/GPBeanWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/context/GPApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/context/support/GPAbstractApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/core/GPBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/core/GPFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/lombok-1.16.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/target/mxh-vip-spring-2.0-ioc-2.0/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/action/MyAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/IModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/IQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/impl/ModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/impl/QueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPAutowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/context/GPApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/session/SqlSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/BlogMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="70" column="78" selection-start-line="70" selection-start-column="78" selection-end-line="70" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dao/BlogDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/hikari.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Tools/Maven/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\Tools\Maven\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-standalone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="dbutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis:3.5.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis:3.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis:3.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis:3.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis:mybatis:3.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+              <item name="SqlSession" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594563264819" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-mybatis" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyBatisTest.testSelect">
+    <configuration name="QueryRunnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.dbutils.QueryRunnerTest" />
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest.testJdbc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.JdbcTest" />
+      <option name="METHOD_NAME" value="testJdbc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.testStatement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.MyBatisTest" />
+      <option name="METHOD_NAME" value="testStatement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBatisTest.testSelect" />
+        <item itemvalue="JUnit.MyBatisTest.testStatement" />
+        <item itemvalue="Application.QueryRunnerTest" />
+        <item itemvalue="JUnit.JdbcTest.testJdbc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba068514-d167-40c8-94ab-8af28cf0b340" name="Default Changelist" comment="" />
+      <created>1594542012386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594542012386</updated>
+      <workItem from="1594542015902" duration="4487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JdbcTest_testJdbc - 2020.07.12 at 16h 29m 39s.xml">
+      <configuration name="JdbcTest.testJdbc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testStatement - 2020.07.12 at 17h 45m 00s.xml">
+      <configuration name="MyBatisTest.testStatement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelect - 2020.07.12 at 22h 07m 28s.xml">
+      <configuration name="MyBatisTest.testSelect" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4487000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/objectfactory/GPObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dto/BlogDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/HikariUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/QueryRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="163" column="33" selection-start-line="163" selection-start-column="33" selection-end-line="163" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/BeanProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/BasicRowProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/RowProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/handlers/BeanHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hikari.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/QueryRunnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dao/BlogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BlogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="70" column="78" selection-start-line="70" selection-start-column="78" selection-end-line="70" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/session/SqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

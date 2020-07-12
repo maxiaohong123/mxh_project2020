@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36336ffe-6ab0-4df5-8278-1c26dcef788f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-2.0/.idea/compiler.xml" beforeDir="false" />
@@ -117,12 +118,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+            <state relative-caret-position="226">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -130,7 +131,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.0.2.RELEASE/spring-jdbc-5.0.2.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="240">
               <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
@@ -139,16 +140,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/sql/DataSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+            <state relative-caret-position="1920">
+              <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.14/mysql-connector-java-5.1.14.jar!/com/mysql/jdbc/ConnectionImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="43950">
               <caret line="1524" column="40" selection-start-line="1524" selection-start-column="40" selection-end-line="1524" selection-end-column="40" />
             </state>
           </provider>
@@ -157,7 +158,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9.jar!/com/alibaba/druid/pool/DruidDataSource.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="180">
               <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
             </state>
           </provider>
@@ -166,8 +167,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+            <state relative-caret-position="840">
+              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -175,8 +176,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="690">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -184,7 +185,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-914">
+            <state relative-caret-position="3720">
               <caret line="124" column="32" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
             </state>
           </provider>
@@ -248,7 +249,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -256,6 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -463,14 +465,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589362476841" />
-    <property name="last_opened_file_path" value="F:/mxh_project_source2020/spring-framework-5.0.2.RELEASE-中文注释版" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589383101790" />
+    <property name="last_opened_file_path" value="F:/mxh_project_source2019/zookeeper-release-3.4.14/zookeeper-release-3.4.14" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -557,7 +558,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589354885731</updated>
-      <workItem from="1589354892291" duration="4923000" />
+      <workItem from="1589354892291" duration="6462000" />
+      <workItem from="1589506699967" duration="3676000" />
+      <workItem from="1590676966199" duration="590000" />
+      <workItem from="1591107404452" duration="614000" />
+      <workItem from="1591884658763" duration="697000" />
+      <workItem from="1592042494225" duration="8000" />
     </task>
     <servers />
   </component>
@@ -591,44 +597,43 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4923000" />
+    <option name="totallyTimeSpent" value="12047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.87068963" visible="true" weight="0.17927383" />
-      <window_info id="Structure" order="1" sideWeight="0.12931034" side_tool="true" visible="true" weight="0.17927383" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8487713" visible="true" weight="0.21028744" />
+      <window_info id="Structure" order="1" sideWeight="0.15122874" side_tool="true" visible="true" weight="0.21028744" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54590166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.022692889" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.13278688" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -685,59 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-914">
-          <caret line="124" column="32" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9.jar!/com/alibaba/druid/pool/DruidDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.2.RELEASE/spring-tx-5.0.2.RELEASE.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="600" column="35" selection-start-line="600" selection-start-column="35" selection-end-line="600" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.0.2.RELEASE/spring-jdbc-5.0.2.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/sql/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -748,10 +704,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.0.2.RELEASE/spring-jdbc-5.0.2.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/sql/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.14/mysql-connector-java-5.1.14.jar!/com/mysql/jdbc/ConnectionImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="43950">
           <caret line="1524" column="40" selection-start-line="1524" selection-start-column="40" selection-end-line="1524" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.9/druid-1.0.9.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="124" column="32" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
         </state>
       </provider>
     </entry>
