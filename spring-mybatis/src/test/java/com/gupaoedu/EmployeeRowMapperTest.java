@@ -26,8 +26,9 @@ public class EmployeeRowMapperTest {
 
     @Test
     public void EmployeeTest() {
+        // EmployeeRowMapper需要将全部属性一个一个写出来，而不通用
 //        list = jdbcTemplate.query("select * from tbl_emp", new EmployeeRowMapper());
-
+        //BaseRowMapper 实现一个通用的映射。通过反射。
          list = jdbcTemplate.query(" select * from tbl_emp" ,new BaseRowMapper(Employee.class));
         System.out.println(list);
     }

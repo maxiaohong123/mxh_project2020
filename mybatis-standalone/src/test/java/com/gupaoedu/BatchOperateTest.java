@@ -92,10 +92,25 @@ public class BatchOperateTest {
         for (int i=2000; i< count; i++) {
             Blog blog = new Blog();
             blog.setBid(i);
-            blog.setName("modified name"+i);
+            blog.setName("aaaname"+i);
             blog.setAuthorId(i);
             list.add(blog);
         }
+
+      //  BlogMapper mapper = session.getMapper(BlogMapper.class);
+//        List<Blog> list = new ArrayList<Blog>();
+//        Blog blog1 = new Blog();
+//        blog1.setBid(1);
+//        blog1.setName("newName666888");
+//        blog1.setAuthorId(666666);
+//        list.add(blog1);
+//        Blog blog2 = new Blog();
+//        blog2.setBid(2);
+//        blog2.setName("newName7778888");
+//        blog2.setAuthorId(777777);
+//        list.add(blog2);
+
+
         mapper.updateBlogList(list);
         session.commit();
         session.close();

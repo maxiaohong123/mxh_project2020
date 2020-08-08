@@ -87,8 +87,8 @@ public class MyBatisTest {
         try {
             BlogMapper mapper = session.getMapper(BlogMapper.class);
             Blog blog = new Blog();
-            blog.setBid(1688);
-            blog.setName("测试插入");
+            blog.setBid(1689);
+            blog.setName("测试插入2");
             blog.setAuthorId(1111);
             System.out.println(mapper.insertBlog(blog));
             session.commit();
@@ -149,12 +149,12 @@ public class MyBatisTest {
             BlogMapper mapper = session.getMapper(BlogMapper.class);
             List<Blog> list = new ArrayList<Blog>();
             Blog blog1 = new Blog();
-            blog1.setBid(666);
+            blog1.setBid(1);
             blog1.setName("newName666");
             blog1.setAuthorId(666666);
             list.add(blog1);
             Blog blog2 = new Blog();
-            blog2.setBid(777);
+            blog2.setBid(2);
             blog2.setName("newName777");
             blog2.setAuthorId(777777);
             list.add(blog2);
@@ -246,13 +246,13 @@ public class MyBatisTest {
         BlogMapper mapper = session.getMapper(BlogMapper.class);
 
         BlogAndAuthor blog = mapper.selectBlogWithAuthorQuery(1);
-        System.out.println("-----------:"+blog.getClass());
+//        System.out.println("-----------:"+blog.getClass());
         // 如果开启了延迟加载(lazyLoadingEnabled=true)，会在使用的时候才发出SQL
         // equals,clone,hashCode,toString也会触发延迟加载
-        System.out.println("-----------调用toString方法:"+blog);
-        System.out.println("-----------getAuthor:"+blog.getAuthor().toString());
+//        System.out.println("-----------调用toString方法:"+blog);
+//        System.out.println("-----------getAuthor:"+blog.getAuthor().toString());
         // 如果 aggressiveLazyLoading = true ，也会触发加载，否则不会
-        //System.out.println("-----------getName:"+blog.getName());
+//        System.out.println("-----------getName:"+blog.getName());
     }
 
     /**

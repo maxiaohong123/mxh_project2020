@@ -18,7 +18,7 @@ public class JdbcTest {
 
         try {
             // 注册 JDBC 驱动
-            // Class.forName("com.mysql.jdbc.Driver");
+             Class.forName("com.mysql.jdbc.Driver");
 
             // 打开连接
             conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/mybatis", "root", "root");

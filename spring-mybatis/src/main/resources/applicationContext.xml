@@ -69,8 +69,8 @@
     </bean>
 
     <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate" >
-        <property name="dataSource" ref="dataSource"></property>
-    </bean>
+    <property name="dataSource" ref="dataSource"></property>
+</bean>
 
     <!--配置扫描器，将mybatis的接口实现加入到  IOC容器中  -->
 <!--

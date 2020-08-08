@@ -150,8 +150,8 @@
                 #{bid,jdbcType=INTEGER},
             </if>
             <if test="name != null">
-                #{name,jdbcType=VARCHAR},
-                <!-- #{name,jdbcType=VARCHAR,typeHandler=com.gupaoedu.type.MyTypeHandler}, -->
+<!--              #{name,jdbcType=VARCHAR},-->
+                 #{name,jdbcType=VARCHAR,typeHandler=com.gupaoedu.type.MyTypeHandler},
             </if>
             <if test="authorId != null">
                 #{authorId,jdbcType=INTEGER},
