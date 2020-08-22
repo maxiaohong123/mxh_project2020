@@ -13,5 +13,6 @@ public class QueryRunnerTest {
 //        BlogDao.selectList();
         int a = 9;int b=8;
         System.out.println(a+b);
+
     }
 }
