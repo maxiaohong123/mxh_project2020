@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mxh-vip-spring-2.0" />
+        <module name="mxh-vip-spring-2.0-aop" />
         <module name="mxh-vip-spring-2.0-mvc" />
       </profile>
     </annotationProcessing>
