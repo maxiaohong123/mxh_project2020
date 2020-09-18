@@ -17,6 +17,7 @@ public class GPHandlerAdapter {
         // 责任：保存形参列表。将参数名称和参数的位置关系保存起来。
         Map<String,Integer> paramIndexMappings = new HashMap<String, Integer>();
 
+        //获得方法的注解参数
         Annotation[][] pa = handler.getMethod().getParameterAnnotations();
         for(int i=0;i<pa.length;i++){
             for(Annotation a:pa[i]){

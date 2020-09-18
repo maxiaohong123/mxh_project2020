@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba068514-d167-40c8-94ab-8af28cf0b340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/artifacts/gupaoedu_vip_spring_tx_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/artifacts/gupaoedu_vip_spring_tx_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__cglib_cglib_nodep_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__com_alibaba_fastjson_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/gupaoedu-vip-spring-tx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/java/com/gupaoedu/vip/spring/transaction/dao/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/java/com/gupaoedu/vip/spring/transaction/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/java/com/gupaoedu/vip/spring/transaction/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/application-aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/application-beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/application-common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/application-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/application-db.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/main/resources/webdefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/src/test/java/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/application-aop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/application-beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/application-common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/application-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/application-db.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/com/gupaoedu/vip/spring/transaction/dao/MemberDao$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/com/gupaoedu/vip/spring/transaction/dao/MemberDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/com/gupaoedu/vip/spring/transaction/entity/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/com/gupaoedu/vip/spring/transaction/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/classes/webdefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/target/test-classes/com/gupaoedu/vip/spring/transaction/service/MemberServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/action/MyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/action/PageAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/service/IModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/GPAopProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/GPCglibAopProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/GPDefaultAopProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/GPJdkDynamicAopProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/aspect/GPAbstractAspectJAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/aspect/GPAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/aspect/GPAspectJAfterThrowingAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/aspect/GPJoinPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/aspect/GPMethodAfterAdviceInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/aspect/GPMethodBeforeAdviceInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/config/GPAopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/intercept/GPMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/intercept/GPMethodInvocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/aop/support/GPAdvisedSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/context/GPApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/core/GPBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/webmvc/servlet/GPModelAndView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/webmvc/servlet/GPView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/webmvc/servlet/GPViewResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/resources/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/resources/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/resources/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/action/PageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/aspect/LogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/GPAopProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/GPCglibAopProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/GPDefaultAopProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/GPJdkDynamicAopProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/aspect/GPAbstractAspectJAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/aspect/GPAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/aspect/GPAspectJAfterThrowingAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/aspect/GPJoinPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/aspect/GPMethodAfterAdviceInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/aspect/GPMethodBeforeAdviceInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/config/GPAopConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/intercept/GPMethodInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/intercept/GPMethodInvocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/aop/support/GPAdvisedSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/core/GPBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/webmvc/servlet/GPHandlerMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/webmvc/servlet/GPModelAndView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/webmvc/servlet/GPView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/com/mxh/framework/webmvc/servlet/GPViewResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/classes/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/action/PageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/aspect/LogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/GPAopProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/GPCglibAopProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/GPDefaultAopProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/GPJdkDynamicAopProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/aspect/GPAbstractAspectJAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/aspect/GPAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/aspect/GPAspectJAfterThrowingAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/aspect/GPJoinPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/aspect/GPMethodAfterAdviceInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/aspect/GPMethodBeforeAdviceInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/config/GPAopConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/intercept/GPMethodInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/intercept/GPMethodInvocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/aop/support/GPAdvisedSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/core/GPBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPHandlerMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPModelAndView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPViewResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/classes/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/lib/lombok-1.16.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/target/mxh-vip-spring-2.0-aop2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/demo/action/MyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/demo/service/IQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/demo/service/impl/QueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/annotation/GPAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/annotation/GPController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/annotation/GPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/beans/config/GPBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/context/GPApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/context/support/GPAbstractApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/core/GPBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/core/GPFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/beans/config/GPBeanPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/context/support/GPAbstractApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/core/GPBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/core/GPFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/config/GPBeanPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/beans/support/GPDefaultListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/context/support/GPAbstractApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/core/GPBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/core/GPFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/classes/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/lombok-1.16.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/target/mxh-vip-spring-2.0-ioc-2.0/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/demo/service/IModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/demo/service/IQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/demo/service/impl/QueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/annotation/GPAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/annotation/GPController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/annotation/GPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-standalone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/HikariUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/QueryRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dao/BlogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dto/BlogDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/BlogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/associate/AuthorAndBlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/associate/BlogAndAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/associate/BlogAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/interceptor/MyPageInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/interceptor/SQLInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapperExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/objectfactory/GPObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/objectfactory/ObjectFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/result/MyResultHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/type/MyTypeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BlogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BlogMapperExt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generator-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hikari.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/BatchOperateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/BlogExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcC3p0Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/MBGTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/PageInterceptorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/cache/FirstLevelCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gupaoedu/cache/SecondLevelCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BlogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BlogMapperExt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/dbutils/HikariUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/dbutils/QueryRunnerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/dbutils/dao/BlogDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/dbutils/dto/BlogDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/BlogExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/BlogExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/BlogExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/BlogExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/associate/AuthorAndBlog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/associate/BlogAndAuthor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/domain/associate/BlogAndComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/interceptor/MyPageInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/interceptor/SQLInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/mapper/BlogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/mapper/BlogMapperExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/objectfactory/GPObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/objectfactory/ObjectFactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/result/MyResultHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/gupaoedu/type/MyTypeHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generator-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hikari.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/BatchOperateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/BlogExampleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/JdbcC3p0Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/JdbcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/MBGTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/MyBatisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/PageInterceptorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/cache/FirstLevelCacheTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/gupaoedu/cache/SecondLevelCacheTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/artifacts/spring_mybatis_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/artifacts/spring_mybatis_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__c3p0_c3p0_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_alibaba_druid_1_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/spring-mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/dao/DepartmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/dao/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/daosupport/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/daosupport/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/rowmapper/BaseRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/rowmapper/EmployeeRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/java/com/gupaoedu/crud/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/mapper/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/bootstrap-3.3.4-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/main/webapp/static/js/jquery-2.0.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/test/java/com/gupaoedu/DaoSupportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/test/java/com/gupaoedu/DruidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/test/java/com/gupaoedu/EmployeeRowMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/test/java/com/gupaoedu/JdbcTemplteBatchInsertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/test/java/com/gupaoedu/MapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/src/test/java/com/gupaoedu/MvcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/bean/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/bean/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/bean/Msg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/controller/DepartmentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/dao/DepartmentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/dao/EmployeeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/daosupport/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/daosupport/EmployeeDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/rowmapper/BaseRowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/rowmapper/EmployeeRowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/service/DepartmentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/com/gupaoedu/crud/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/mapper/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/DaoSupportTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/DruidTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/EmployeeRowMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/JdbcTemplteBatchInsertTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/JdbcTemplteBatchInsertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/MapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mybatis/target/test-classes/com/gupaoedu/MvcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_orm_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/java/com/gupaoedu/SshDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/java/com/gupaoedu/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/java/com/gupaoedu/dao/BlogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/java/com/gupaoedu/domain/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/java/com/gupaoedu/service/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/java/com/gupaoedu/service/IBlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/resources/Blog.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/test/java/com/gupaoedu/com/HibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/src/test/java/com/gupaoedu/com/SshDemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/ssh-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/Blog.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/com/gupaoedu/SshDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/com/gupaoedu/controller/BlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/com/gupaoedu/dao/BlogDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/com/gupaoedu/domain/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/com/gupaoedu/service/BlogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/com/gupaoedu/service/IBlogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/test-classes/com/gupaoedu/com/HibernateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssh-demo/target/test-classes/com/gupaoedu/com/SshDemoApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/src/main/java/com/mxh/demo/action/MyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/src/main/java/com/mxh/demo/action/MyAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/src/main/java/com/mxh/demo/service/IModifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/src/main/java/com/mxh/demo/service/IModifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/src/main/java/com/mxh/demo/service/impl/ModifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/src/main/java/com/mxh/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/com/mxh/demo/action/MyAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/com/mxh/demo/service/IModifyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/com/mxh/demo/service/impl/ModifyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/classes/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop.war" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/demo/action/MyAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/demo/action/MyAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/demo/service/IModifyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/framework/aop/support/GPAdvisedSupport.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes/com/mxh/framework/aop/support/GPAdvisedSupport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0-mvc/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-mvc/src/main/java/com/mxh/framework/webmvc/servlet/GPHandlerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-tx/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/action/MyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/demo/action/MyAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/IModifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/demo/service/IModifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/IQueryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/service/IQueryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/impl/ModifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/demo/service/impl/QueryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/demo/service/impl/QueryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPAutowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/annotation/GPAutowired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/annotation/GPController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/annotation/GPRequestMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/annotation/GPRequestParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/annotation/GPService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/annotation/GPService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/beans/GPBeanWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/java/com/mxh/framework/beans/config/GPBeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/context/GPApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc/src/main/java/com/mxh/framework/context/GPApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/java/com/mxh/framework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-ioc-aop-mvc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mxh-vip-spring-2.0/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../mxh-vip-spring-2.0-aop2/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2442">
+              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyBatisTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7474">
+              <caret line="215" column="34" selection-start-line="215" selection-start-column="34" selection-end-line="215" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdbcTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3145">
+              <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogExampleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/BlogExampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MBGTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MBGTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generator-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/generator-config.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="BlogMapperExt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapperExt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogMapperExt.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/BlogMapperExt.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TypeAlia</find>
+      <find>TypeAlias</find>
+      <find>TypeAliasRegis</find>
+      <find>TypeHandlerRegistry</find>
+      <find>selectAuthor</find>
+      <find>BlogWithAuthorQueryMap</find>
+      <find>ResultSetHandler</find>
+      <find>selectBlog</find>
+      <find>insert</find>
+      <find>MyTypeHandler</find>
+      <find>ObjectFactory</find>
+      <find>doUpdate</find>
+      <find>BlogWithAuthorResultMap</find>
+      <find>generateCon</find>
+      <find>generator-c</find>
+      <find>BlogMapperExt</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/hikari.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gupaoedu/BatchOperateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/QueryRunnerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/BlogMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-standalone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-standalone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-standalone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatis-standalone" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1372" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="BlogExampleTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="MBGTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatisTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-generator-core-1.3.5.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-generator-core-1.3.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-generator-core-1.3.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598092083432" />
+    <property name="last_opened_file_path" value="D:/IDEAWorkspaces1/visc" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyBatisTest.testMapperExt">
+    <configuration name="QueryRunnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.dbutils.QueryRunnerTest" />
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyBatisTest.testMapperExt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.MyBatisTest" />
+      <option name="METHOD_NAME" value="testMapperExt" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyBatisTest.testSelectBlogWithAuthorQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelectBlogWithAuthorQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyBatisTest.testSelectBlogWithAuthorResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelectBlogWithAuthorResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyBatisTest.testSelectByRowBounds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelectByRowBounds" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="Application.QueryRunnerTest" />
+      <item itemvalue="JUnit.MyBatisTest.testSelectBlogWithAuthorQuery" />
+      <item itemvalue="JUnit.MyBatisTest.testSelectBlogWithAuthorResult" />
+      <item itemvalue="JUnit.MyBatisTest.testSelectByRowBounds" />
+      <item itemvalue="JUnit.MyBatisTest.testMapperExt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBatisTest.testMapperExt" />
+        <item itemvalue="JUnit.MyBatisTest.testSelectByRowBounds" />
+        <item itemvalue="JUnit.MyBatisTest.testSelectBlogWithAuthorQuery" />
+        <item itemvalue="JUnit.MyBatisTest.testSelectBlogWithAuthorResult" />
+        <item itemvalue="Application.QueryRunnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba068514-d167-40c8-94ab-8af28cf0b340" name="Default Changelist" comment="" />
+      <created>1594542012386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594542012386</updated>
+      <workItem from="1594542015902" duration="4759000" />
+      <workItem from="1595663612960" duration="9531000" />
+      <workItem from="1595731196284" duration="11958000" />
+      <workItem from="1596631900600" duration="1204000" />
+      <workItem from="1596844655921" duration="1033000" />
+      <workItem from="1596880184124" duration="616000" />
+      <workItem from="1597220908672" duration="694000" />
+      <workItem from="1597588140786" duration="289000" />
+      <workItem from="1597588517859" duration="58000" />
+      <workItem from="1598090440657" duration="1578000" />
+      <workItem from="1598253224551" duration="9853000" />
+      <workItem from="1598324532276" duration="1207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyBatisTest_testSelectBlogWithAuthorQuery - 2020.08.24 at 17h 00m 52s.xml">
+      <configuration name="MyBatisTest.testSelectBlogWithAuthorQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectBlogWithAuthorQuery - 2020.08.24 at 17h 03m 13s.xml">
+      <configuration name="MyBatisTest.testSelectBlogWithAuthorQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectBlogWithAuthorQuery - 2020.08.24 at 17h 03m 27s.xml">
+      <configuration name="MyBatisTest.testSelectBlogWithAuthorQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectBlogWithAuthorQuery - 2020.08.24 at 17h 05m 17s.xml">
+      <configuration name="MyBatisTest.testSelectBlogWithAuthorQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectBlogWithAuthorQuery - 2020.08.24 at 17h 05m 31s.xml">
+      <configuration name="MyBatisTest.testSelectBlogWithAuthorQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectByRowBounds - 2020.08.24 at 17h 13m 27s.xml">
+      <configuration name="MyBatisTest.testSelectByRowBounds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectByRowBounds - 2020.08.24 at 17h 44m 41s.xml">
+      <configuration name="MyBatisTest.testSelectByRowBounds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectByRowBounds - 2020.08.24 at 17h 45m 05s.xml">
+      <configuration name="MyBatisTest.testSelectByRowBounds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testSelectByRowBounds - 2020.08.24 at 17h 45m 29s.xml">
+      <configuration name="MyBatisTest.testSelectByRowBounds" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testMapperExt - 2020.08.24 at 18h 07m 32s.xml">
+      <configuration name="MyBatisTest.testMapperExt" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42780000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.12260128" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.091603056" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34460196" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28462377" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.18154311" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gupaoedu/BatchOperateTest.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java</url>
+          <line>197</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/type/TypeHandlerRegistry.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/type/StringTypeHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/Blog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/BatchOperateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="87" column="23" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="30" />
+          <folding>
+            <element signature="e#2651#2657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/cache/FirstLevelCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/cache/SecondLevelCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/associate/BlogAndComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcC3p0Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hikari.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/executor/resultset/ResultSetHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/HikariUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/handlers/BeanHandler.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar!/org/apache/commons/dbutils/ResultSetHandler.class" />
+    <entry file="uml://JAVA/org.apache.commons.dbutils.ResultSetHandler">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.commons.dbutils.ResultSetHandler</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.commons.dbutils.ResultSetHandler</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1" x="384.0" y="64.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7-sources.jar!/org/apache/commons/dbutils/ResultSetHandler.java" />
+    <entry file="uml://JAVA/org.apache.commons.dbutils.handlers.BeanHandler">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.commons.dbutils.handlers.BeanHandler</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">org.apache.commons</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-130.0" y="37.0" />
+          <SelectedNodes>
+            <node>org.apache.commons</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7-sources.jar!/org/apache/commons/dbutils/QueryRunner.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7-sources.jar!/org/apache/commons/dbutils/handlers/BeanHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7-sources.jar!/org/apache/commons/dbutils/RowProcessor.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7-sources.jar!/org/apache/commons/dbutils/BasicRowProcessor.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7-sources.jar!/org/apache/commons/dbutils/BeanProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dto/BlogDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/dao/BlogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/session/SqlSession.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/type/MyTypeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="38" lean-forward="true" selection-start-line="16" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/objectfactory/ObjectFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4-sources.jar!/org/apache/ibatis/reflection/factory/ObjectFactory.java" />
+    <entry file="uml://JAVA/org.apache.ibatis.reflection.factory.ObjectFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.ibatis.reflection.factory.ObjectFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">org.apache.ibatis.reflection.factory.ObjectFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="179.0" y="61.0" />
+          <SelectedNodes>
+            <node>org.apache.ibatis.reflection.factory.ObjectFactory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/objectfactory/GPObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Constructor.java" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/ConstructorAccessor.class" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/BootstrapConstructorAccessorImpl.class" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/naming/spi/ObjectFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/dbutils/QueryRunnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/domain/associate/BlogAndAuthor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BlogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="219" column="14" selection-start-line="219" selection-start-column="14" selection-end-line="219" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-repository/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.jar!/com/mysql/jdbc/PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="448" column="17" selection-start-line="448" selection-start-column="17" selection-end-line="448" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2442">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/maven-repository/org/mybatis/generator/mybatis-generator-core/1.3.5/mybatis-generator-core-1.3.5.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generator-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/BlogExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MBGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/JdbcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gupaoedu/MyBatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7474">
+          <caret line="215" column="34" selection-start-line="215" selection-start-column="34" selection-end-line="215" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mapper/BlogMapperExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/BlogMapperExt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

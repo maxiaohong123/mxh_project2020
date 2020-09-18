@@ -2,18 +2,27 @@
 <application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
 
 	<classpath>
+<<<<<<< HEAD
 		<dir name="E:/mxh_project2020/mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes">
+=======
+		<dir name="F:/mxh_project2020/mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes">
+>>>>>>> 5590a5cdd6cf27e2b825d59a45d9e4273db1b1fc
 			<include name="application.properties"/>
 			<include name="layouts/404.html"/>
 			<include name="layouts/500.html"/>
 			<include name="layouts/first.html"/>
 		</dir>
+<<<<<<< HEAD
 		<dir name="E:/mxh_project2020/mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes">
+=======
+		<dir name="F:/mxh_project2020/mxh-vip-spring-2.0-aop/target/mxh-vip-spring-2.0-aop/WEB-INF/classes">
+>>>>>>> 5590a5cdd6cf27e2b825d59a45d9e4273db1b1fc
 			<include name="application.properties"/>
 			<include name="layouts/404.html"/>
 			<include name="layouts/500.html"/>
 			<include name="layouts/first.html"/>
 		</dir>
+<<<<<<< HEAD
 		<dir name="E:/mxh_project2020/mxh-vip-spring-2.0-aop/src/main/resources">
 			<include name="**/*"/>
 		</dir>
@@ -22,12 +31,26 @@
 			<exclude name="**/*.class"/>
 		</dir>
 		<dir name="E:/mxh_project2020/mxh-vip-spring-2.0-aop/target/classes">
+=======
+		<dir name="F:/mxh_project2020/mxh-vip-spring-2.0-aop/src/main/resources">
+			<include name="**/*"/>
+		</dir>
+		<dir name="F:/mxh_project2020/mxh-vip-spring-2.0-aop/src/main/java">
+			<exclude name="**/*.java"/>
+			<exclude name="**/*.class"/>
+		</dir>
+		<dir name="F:/mxh_project2020/mxh-vip-spring-2.0-aop/target/classes">
+>>>>>>> 5590a5cdd6cf27e2b825d59a45d9e4273db1b1fc
 		</dir>
 	</classpath>
 
 	<web>
 		<link target="/">
+<<<<<<< HEAD
 			<dir name="E:/mxh_project2020/mxh-vip-spring-2.0-aop/src/main/webapp">
+=======
+			<dir name="F:/mxh_project2020/mxh-vip-spring-2.0-aop/src/main/webapp">
+>>>>>>> 5590a5cdd6cf27e2b825d59a45d9e4273db1b1fc
 			</dir>
 		</link>
 	</web>
